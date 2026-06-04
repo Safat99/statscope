@@ -4,7 +4,7 @@ import 'screens/simulator_screen.dart';
 import 'screens/learning_screen.dart';
 import 'screens/sample_size_screen.dart';
 import 'screens/bulk_analysis_screen.dart';
-
+import 'screens/about_screen.dart';
 void main() {
   runApp(const MyApp());
 }
@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
         '/learning': (context) => const LearningScreen(),
         '/sample-size': (context) => const SampleSizeScreen(),
         '/bulk-analysis': (context) => const BulkAnalysisScreen(),
+        '/about': (context) => const AboutScreen(),
       },
     );
   }

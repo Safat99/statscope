@@ -163,6 +163,15 @@ class HomeScreen extends StatelessWidget {
                         route: "/bulk-analysis",
                         icon: Icons.table_chart_outlined,
                       ),
+
+                      _homeCard(
+                        context,
+                        title: "About & Acknowledgements",
+                        subtitle:
+                            "Project contributors, references, and credits.",
+                        route: "/about",
+                        icon: Icons.info_outline,
+                      ),
                     ],
                   ),
                 ),
