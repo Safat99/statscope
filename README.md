@@ -10,7 +10,7 @@ An interactive statistical learning and experimental planning tool built with Fl
 
 StatScope is an educational and research-oriented application that helps users understand important concepts in statistical hypothesis testing through interactive visualizations and practical calculators.
 
-I built this project during my Spring 2026 Graduate Research Assistantship (GRA) at Montana State University under the direction of Dr. Anthony Hartshorn. The main goal of this project is to help students learn concepts such as Type I error, Type II error, statistical power, effect size, and sample size planning in a more visual and interactive way.
+I built this project during my Spring 2026 Graduate Research Assistantship (GRA) at Montana State University under the direction of [Dr. Anthony Hartshorn](https://landresources.montana.edu/directory/faculty/1524160/anthony-hartshorn). The main goal of this project is to help students learn concepts such as Type I error, Type II error, statistical power, effect size, and sample size planning in a more visual and interactive way.
 
 Besides learning statistical concepts, the project also includes tools that can assist researchers during study planning and treatment comparison analysis.
 
